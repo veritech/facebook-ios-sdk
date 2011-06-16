@@ -249,6 +249,7 @@
 				INSTALL_PATH = /usr/local/lib;
 				PRODUCT_NAME = facebook_ios_sdk;
 				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
 			};
 			name = Debug;
 		};
@@ -264,6 +265,7 @@
 				INSTALL_PATH = /usr/local/lib;
 				PRODUCT_NAME = facebook_ios_sdk;
 				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
 			};
 			name = Release;
 		};
